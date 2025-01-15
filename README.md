@@ -12,3 +12,7 @@
 
 用法：
 python3 wxapkg_infosearch.py -f 源码包位置
+
+最终输出infolist.txt
+
+![image](https://github.com/user-attachments/assets/233254d9-c447-4ffc-a7af-ec91245bfda0)
