@@ -1,6 +1,9 @@
 # wxapkg_infosearch
 一款微信小程序源码包信息收集工具，根据已有项目改编
 
+![image](https://github.com/user-attachments/assets/dfd9f009-5739-46b6-837b-e3204bed7450)
+
+
 本项目是由 https://github.com/moyuwa/wechat_appinfo_wxapkg 项目中的信息收集脚本改编而成
 
 感谢这位大佬，侵删
